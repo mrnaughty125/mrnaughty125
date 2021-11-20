@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrnaughty125
-- 👀 I’m interested in group working and project development 
+- 👋 Hi, I’m KARRI PRADEEP KUMAR
+- 👀 I’m interested in GROUP WORKING AND PROJECT DEVELOPMENT 
 - 🌱 I’m currently graduating b tech in ADITYA ENGINEERING COLLEGE
 - 💞️ I’m looking to collaborate with SOFTWARE
 - 📫 How to reach me @karripradeepkumar2020@gmail.com and phone number:7660993784
