@@ -10,45 +10,7 @@
       margin: 20px;
     }
 
-    h1 {
-      margin-bottom: 20px;
-    }
-
-    .profile {
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .profile img {
-      width: 100px;
-      border-radius: 50%;
-      margin-right: 20px;
-    }
-
-    .profile h2 {
-      font-size: 24px;
-      margin: 0;
-    }
-
-    .profile p {
-      margin: 5px 0;
-    }
-
-    .repos {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    .repos li {
-      margin-bottom: 10px;
-    }
-
-    .repos li a {
-      font-weight: bold;
-      text-decoration: none;
-      color: #0366d6;
-    }
+    
   </style>
 </head>
 <body>
