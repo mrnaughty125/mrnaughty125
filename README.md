@@ -44,9 +44,9 @@
 <p align="center">Check out some of my projects:</p>
 
 <ul>
-  <li><a href="https://github.com/your-project1">Project 1</a> -Infrastructure automation with terraform.</li>
-  <li><a href="https://github.com/your-project2">Project 2</a> - CI/CD pipeline with jenkins.</li>
-  <li><a href="https://github.com/your-project3">Project 3</a> - Movie listing website.</li>
+  <li><a href="https://github.com/mrnaughty125/BELL-MART.git">Project 1</a> - BELL MART E-commerce website</li>
+  <li><a href="https://github.com/mrnaughty125/Jenkins-CI-CD.git">Project 2</a> - CI/CD pipeline with jenkins.</li>
+  <li><a href="https://github.com/mrnaughty125/Docker-deploying.git">Project 3</a> - Website hosting in Docker.</li>
 </ul>
 
 <p align="center">Feel free to connect with me on LinkedIn or Twitter to stay updated with my latest projects and achievements.</p>
