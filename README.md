@@ -24,11 +24,11 @@
 
 
 
-[![uday's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=20a91a1221)](https://auth.geeksforgeeks.org/user/20a91a1252)
+[![uday's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=20a91a1221)](https://auth.geeksforgeeks.org/user/20a91a1221)
 
 
 
-[![](https://leetcard.jacoblin.cool/Udaybhaskartalari2002?theme=dark)](https://leetcode.com/karripradeepkumar/)
+[![](https://leetcard.jacoblin.cool/karri pradeep kumar?theme=dark)](https://leetcode.com/karripradeepkumar/)
 
 
 
