@@ -28,7 +28,7 @@
 
 
 
-[![](https://leetcard.jacoblin.cool/karri pradeep kumar?theme=dark)](https://leetcode.com/karripradeepkumar/)
+[![](https://leetcard.jacoblin.cool/karripradeepkumar?theme=dark)](https://leetcode.com/karripradeepkumar/)
 
 
 
