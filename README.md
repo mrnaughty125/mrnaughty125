@@ -24,7 +24,7 @@
 
 
 
-[![uday's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=20a91a1221)](https://auth.geeksforgeeks.org/user/20a91a1221)
+[![pradeep's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=20a91a1221)](https://auth.geeksforgeeks.org/user/20a91a1221/practice)
 
 
 
