@@ -16,11 +16,9 @@
 <ul>
   <li>Associate software engineer at ATC</li>
   <li>having 1 year experience on manual & Automation testing</li>
-  
-  
+  <li>java+selenium for automation testing</li>  
 </ul>
 
-# 💻 Tech Stack:
 
 
 
